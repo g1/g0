@@ -1,0 +1,17 @@
+{
+  "name": "g1 Github Page",
+  "short_name": "g0",
+  "description": "g1's Github Page",
+  "scope": "/g0/",
+  "start_url": "/g0/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/g0/img/icon.png",
+        "type": "image/png",
+        "sizes": "700x700"
+      }
+  ]
+}
